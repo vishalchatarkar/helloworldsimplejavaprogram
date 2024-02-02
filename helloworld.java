@@ -1,6 +1,6 @@
 class Simple{  
     public static void main(String args[]){  
-     System.out.println("Hello batch32 team with Ashwini , pratik  and Manikanta");
-      System.out.println("Hello Batch batch32 WITH FOR STUDENTS RUNNING in front of Sanjeev  and Mohit and Kumar sindhu in making CI automated vikas teach devops CI proecss  ");
+     System.out.println("Hello batch33 team with Devanshu , Nazeem  and Sopan");
+      System.out.println("Hello Batch batch33 WITH FOR STUDENTS RUNNING in front of Harsha  and Mohit and Kumar iman in making CI automated vikas teach devops CI proecss  ");
     }  
 } 
